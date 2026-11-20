@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Gym & Fitness Center Analytics Dashboard</title>
+<style>
+  body { font-family: sans-serif; margin: 20px; background: #f4f6f9; color: #333; }
+  h1 { color: #111; }
+  .container { max-width: 1200px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+  ul { line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Gym Membership & Analytics Dashboard</h1>
+  <h3>Key Actionable Recommendations:</h3>
+  <ul id="recs-list"></ul>
+</div>
+<script>
+  const data = __DATA__;
+  const recs = __RECS__;
+  const list = document.getElementById('recs-list');
+  recs.forEach(r => {
+    const li = document.createElement('li');
+    li.textContent = r;
+    list.appendChild(li);
+  });
+</script>
+</body>
+</html>

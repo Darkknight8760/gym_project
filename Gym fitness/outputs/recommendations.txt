@@ -1,0 +1,5 @@
+1. Staff and schedule up for Saturday and the 7:00 hour, the busiest slots; shift cleaning/maintenance to the quietest hours (19:00).
+2. Add sessions for 'Strength' and 'Spin' (top attendance); review or re-time 'Yoga', the least attended class.
+3. 344 of 348 members meet the '<2 visits/month' rule because the data is sparse; prioritise the 99 who visited only once with a welcome-back offer, and run a 30-day streak challenge for the rest.
+4. 164 members have been silent 180+ days: send a win-back offer (free PT session) before cancellation.
+5. Fix billing data: Monthly_Fee does not match Membership_Tier, so revenue cannot be trusted until fees are standardised per tier.

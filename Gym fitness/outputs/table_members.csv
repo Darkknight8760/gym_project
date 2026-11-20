@@ -1,0 +1,349 @@
+Member_ID,Active_Months,Visits,Visits_per_Active_Month,Low_Engagement,Segment,Days_Since_Last
+M0001,1,1,1.0,True,Active,40
+M0002,1,1,1.0,True,Churn risk (180d+ silent),588
+M0003,3,3,1.0,True,Cooling off,119
+M0004,1,1,1.0,True,Cooling off,97
+M0005,1,1,1.0,True,Churn risk (180d+ silent),628
+M0006,3,3,1.0,True,Churn risk (180d+ silent),474
+M0007,1,1,1.0,True,Churn risk (180d+ silent),315
+M0008,4,4,1.0,True,Champion,58
+M0009,4,4,1.0,True,Champion,19
+M0010,1,1,1.0,True,Churn risk (180d+ silent),478
+M0011,3,3,1.0,True,Active,56
+M0012,2,2,1.0,True,Cooling off,117
+M0013,2,3,1.5,True,Active,39
+M0014,2,2,1.0,True,Churn risk (180d+ silent),487
+M0015,2,2,1.0,True,Churn risk (180d+ silent),226
+M0017,5,5,1.0,True,Cooling off,178
+M0018,1,1,1.0,True,Churn risk (180d+ silent),210
+M0019,1,1,1.0,True,Active,26
+M0020,1,1,1.0,True,Cooling off,118
+M0021,4,4,1.0,True,Cooling off,91
+M0022,2,2,1.0,True,Churn risk (180d+ silent),252
+M0024,5,5,1.0,True,Active,81
+M0025,2,2,1.0,True,Churn risk (180d+ silent),251
+M0026,1,1,1.0,True,Active,24
+M0027,5,5,1.0,True,Cooling off,128
+M0028,5,5,1.0,True,Cooling off,105
+M0029,5,6,1.2,True,Active,82
+M0030,3,3,1.0,True,Active,24
+M0031,2,2,1.0,True,Active,26
+M0032,1,1,1.0,True,Active,75
+M0033,3,3,1.0,True,Active,22
+M0034,3,3,1.0,True,Cooling off,119
+M0035,2,2,1.0,True,Active,87
+M0036,1,1,1.0,True,Churn risk (180d+ silent),603
+M0037,2,2,1.0,True,Churn risk (180d+ silent),203
+M0038,4,4,1.0,True,Cooling off,145
+M0039,3,3,1.0,True,Churn risk (180d+ silent),182
+M0040,1,1,1.0,True,Active,83
+M0041,3,3,1.0,True,Cooling off,120
+M0042,1,1,1.0,True,Churn risk (180d+ silent),494
+M0043,2,3,1.5,True,Churn risk (180d+ silent),576
+M0045,1,1,1.0,True,Churn risk (180d+ silent),422
+M0046,2,2,1.0,True,Active,10
+M0047,1,1,1.0,True,Churn risk (180d+ silent),590
+M0048,2,2,1.0,True,Churn risk (180d+ silent),354
+M0050,3,3,1.0,True,Active,60
+M0051,4,4,1.0,True,Cooling off,175
+M0052,5,5,1.0,True,Churn risk (180d+ silent),443
+M0053,2,2,1.0,True,Cooling off,137
+M0054,3,4,1.3333333333333333,True,Cooling off,134
+M0055,1,1,1.0,True,Churn risk (180d+ silent),211
+M0056,1,1,1.0,True,Churn risk (180d+ silent),282
+M0057,1,1,1.0,True,Churn risk (180d+ silent),444
+M0058,3,3,1.0,True,Active,87
+M0060,2,2,1.0,True,Churn risk (180d+ silent),263
+M0061,4,4,1.0,True,Active,68
+M0062,2,2,1.0,True,Cooling off,142
+M0063,2,2,1.0,True,Churn risk (180d+ silent),184
+M0064,1,1,1.0,True,Active,72
+M0065,2,2,1.0,True,Cooling off,170
+M0066,1,1,1.0,True,Active,5
+M0067,2,2,1.0,True,Cooling off,172
+M0069,2,3,1.5,True,Churn risk (180d+ silent),299
+M0070,2,3,1.5,True,Active,42
+M0071,2,2,1.0,True,Cooling off,122
+M0072,5,5,1.0,True,Champion,12
+M0073,3,4,1.3333333333333333,True,Cooling off,161
+M0074,2,3,1.5,True,Churn risk (180d+ silent),391
+M0075,4,5,1.25,True,Cooling off,135
+M0076,2,3,1.5,True,Churn risk (180d+ silent),242
+M0077,1,2,2.0,False,Cooling off,136
+M0078,2,2,1.0,True,Churn risk (180d+ silent),212
+M0079,3,3,1.0,True,Churn risk (180d+ silent),236
+M0080,2,2,1.0,True,Churn risk (180d+ silent),295
+M0081,5,5,1.0,True,Active,64
+M0082,1,1,1.0,True,Cooling off,111
+M0083,2,2,1.0,True,Cooling off,157
+M0084,3,3,1.0,True,Cooling off,119
+M0085,2,2,1.0,True,Active,20
+M0086,2,2,1.0,True,Cooling off,119
+M0087,1,1,1.0,True,Churn risk (180d+ silent),416
+M0088,4,4,1.0,True,Cooling off,112
+M0089,1,1,1.0,True,Cooling off,158
+M0092,1,1,1.0,True,Churn risk (180d+ silent),531
+M0093,2,3,1.5,True,Active,41
+M0094,2,3,1.5,True,Active,1
+M0095,2,2,1.0,True,Cooling off,167
+M0096,2,2,1.0,True,Churn risk (180d+ silent),289
+M0097,4,4,1.0,True,Cooling off,161
+M0100,4,4,1.0,True,Champion,3
+M0102,4,4,1.0,True,Active,74
+M0103,2,2,1.0,True,Churn risk (180d+ silent),506
+M0104,4,5,1.25,True,Churn risk (180d+ silent),299
+M0106,4,4,1.0,True,Champion,30
+M0107,2,2,1.0,True,Cooling off,137
+M0110,3,3,1.0,True,Active,3
+M0112,3,4,1.3333333333333333,True,Churn risk (180d+ silent),462
+M0113,3,3,1.0,True,Churn risk (180d+ silent),307
+M0115,1,1,1.0,True,Churn risk (180d+ silent),305
+M0116,2,2,1.0,True,Churn risk (180d+ silent),561
+M0117,1,1,1.0,True,Churn risk (180d+ silent),573
+M0118,3,4,1.3333333333333333,True,Churn risk (180d+ silent),392
+M0119,1,1,1.0,True,Cooling off,125
+M0120,1,1,1.0,True,Churn risk (180d+ silent),429
+M0121,2,2,1.0,True,Churn risk (180d+ silent),224
+M0123,2,2,1.0,True,Churn risk (180d+ silent),198
+M0124,2,2,1.0,True,Active,89
+M0125,1,1,1.0,True,Churn risk (180d+ silent),309
+M0126,4,5,1.25,True,Cooling off,123
+M0127,4,5,1.25,True,Churn risk (180d+ silent),204
+M0128,1,1,1.0,True,Churn risk (180d+ silent),618
+M0129,5,5,1.0,True,Cooling off,141
+M0130,3,3,1.0,True,Active,17
+M0132,1,1,1.0,True,Churn risk (180d+ silent),602
+M0134,5,5,1.0,True,Cooling off,92
+M0135,2,2,1.0,True,Active,4
+M0136,4,4,1.0,True,Cooling off,97
+M0137,2,2,1.0,True,Active,43
+M0138,5,5,1.0,True,Cooling off,97
+M0139,1,1,1.0,True,Churn risk (180d+ silent),192
+M0140,1,1,1.0,True,Churn risk (180d+ silent),564
+M0142,3,3,1.0,True,Active,75
+M0143,1,2,2.0,False,Churn risk (180d+ silent),598
+M0144,1,1,1.0,True,Churn risk (180d+ silent),555
+M0147,1,1,1.0,True,Active,20
+M0148,1,1,1.0,True,Active,2
+M0149,2,2,1.0,True,Cooling off,107
+M0151,1,1,1.0,True,Churn risk (180d+ silent),288
+M0152,1,1,1.0,True,Active,57
+M0153,1,1,1.0,True,Churn risk (180d+ silent),289
+M0154,2,2,1.0,True,Churn risk (180d+ silent),508
+M0156,2,2,1.0,True,Churn risk (180d+ silent),416
+M0157,3,3,1.0,True,Active,31
+M0158,2,2,1.0,True,Cooling off,169
+M0159,3,3,1.0,True,Active,34
+M0160,1,1,1.0,True,Churn risk (180d+ silent),584
+M0161,2,2,1.0,True,Churn risk (180d+ silent),417
+M0162,4,4,1.0,True,Cooling off,163
+M0163,2,2,1.0,True,Cooling off,149
+M0164,3,3,1.0,True,Cooling off,105
+M0165,2,2,1.0,True,Active,26
+M0166,1,1,1.0,True,Cooling off,143
+M0167,1,1,1.0,True,Churn risk (180d+ silent),462
+M0168,2,2,1.0,True,Churn risk (180d+ silent),353
+M0169,4,4,1.0,True,Champion,34
+M0170,3,4,1.3333333333333333,True,Active,78
+M0171,2,2,1.0,True,Churn risk (180d+ silent),446
+M0173,1,1,1.0,True,Churn risk (180d+ silent),229
+M0174,4,5,1.25,True,Champion,10
+M0175,3,3,1.0,True,Churn risk (180d+ silent),206
+M0176,4,4,1.0,True,Active,73
+M0177,1,1,1.0,True,Churn risk (180d+ silent),187
+M0178,4,4,1.0,True,Champion,6
+M0179,2,2,1.0,True,Cooling off,165
+M0180,5,5,1.0,True,Churn risk (180d+ silent),298
+M0181,2,2,1.0,True,Active,2
+M0182,1,1,1.0,True,Churn risk (180d+ silent),285
+M0183,2,2,1.0,True,Cooling off,112
+M0184,1,1,1.0,True,Churn risk (180d+ silent),538
+M0185,2,2,1.0,True,Churn risk (180d+ silent),243
+M0186,1,1,1.0,True,Churn risk (180d+ silent),618
+M0187,2,3,1.5,True,Churn risk (180d+ silent),312
+M0188,3,3,1.0,True,Cooling off,97
+M0189,3,3,1.0,True,Active,26
+M0190,3,3,1.0,True,Churn risk (180d+ silent),359
+M0191,3,3,1.0,True,Cooling off,161
+M0192,3,3,1.0,True,Active,62
+M0193,1,1,1.0,True,Churn risk (180d+ silent),394
+M0194,2,2,1.0,True,Active,26
+M0195,1,1,1.0,True,Churn risk (180d+ silent),655
+M0196,2,4,2.0,False,Cooling off,102
+M0197,3,3,1.0,True,Cooling off,164
+M0198,1,1,1.0,True,Active,64
+M0199,4,4,1.0,True,Churn risk (180d+ silent),496
+M0200,2,2,1.0,True,Cooling off,119
+M0201,2,2,1.0,True,Active,84
+M0203,2,2,1.0,True,Churn risk (180d+ silent),215
+M0204,7,7,1.0,True,Cooling off,123
+M0205,3,3,1.0,True,Churn risk (180d+ silent),286
+M0207,5,5,1.0,True,Champion,14
+M0208,3,3,1.0,True,Cooling off,149
+M0209,4,4,1.0,True,Churn risk (180d+ silent),266
+M0211,3,3,1.0,True,Active,72
+M0212,2,2,1.0,True,Churn risk (180d+ silent),446
+M0213,2,2,1.0,True,Cooling off,92
+M0215,6,6,1.0,True,Cooling off,91
+M0216,2,2,1.0,True,Active,80
+M0217,1,1,1.0,True,Churn risk (180d+ silent),611
+M0218,1,1,1.0,True,Active,69
+M0219,3,3,1.0,True,Cooling off,160
+M0220,2,3,1.5,True,Active,24
+M0221,2,2,1.0,True,Churn risk (180d+ silent),230
+M0222,2,2,1.0,True,Churn risk (180d+ silent),349
+M0223,4,4,1.0,True,Active,81
+M0224,4,4,1.0,True,Cooling off,160
+M0226,2,2,1.0,True,Churn risk (180d+ silent),349
+M0227,3,3,1.0,True,Cooling off,147
+M0229,1,1,1.0,True,Churn risk (180d+ silent),279
+M0230,2,2,1.0,True,Churn risk (180d+ silent),301
+M0231,2,2,1.0,True,Churn risk (180d+ silent),311
+M0232,3,3,1.0,True,Cooling off,93
+M0233,1,1,1.0,True,Cooling off,118
+M0234,3,3,1.0,True,Active,45
+M0235,1,1,1.0,True,Churn risk (180d+ silent),660
+M0236,6,7,1.1666666666666667,True,Active,61
+M0237,1,1,1.0,True,Churn risk (180d+ silent),533
+M0238,2,2,1.0,True,Churn risk (180d+ silent),318
+M0241,3,4,1.3333333333333333,True,Cooling off,105
+M0242,2,2,1.0,True,Cooling off,95
+M0243,2,2,1.0,True,Churn risk (180d+ silent),310
+M0244,2,2,1.0,True,Churn risk (180d+ silent),329
+M0245,1,2,2.0,False,Churn risk (180d+ silent),256
+M0246,2,2,1.0,True,Cooling off,115
+M0247,2,3,1.5,True,Cooling off,123
+M0248,1,1,1.0,True,Churn risk (180d+ silent),629
+M0249,1,1,1.0,True,Active,62
+M0250,2,2,1.0,True,Active,23
+M0251,2,2,1.0,True,Cooling off,95
+M0252,1,1,1.0,True,Active,20
+M0253,1,1,1.0,True,Cooling off,178
+M0254,2,2,1.0,True,Churn risk (180d+ silent),486
+M0255,3,3,1.0,True,Churn risk (180d+ silent),218
+M0256,2,2,1.0,True,Churn risk (180d+ silent),213
+M0258,1,1,1.0,True,Churn risk (180d+ silent),437
+M0259,5,5,1.0,True,Active,83
+M0260,1,1,1.0,True,Churn risk (180d+ silent),195
+M0261,4,5,1.25,True,Champion,8
+M0262,3,4,1.3333333333333333,True,Active,61
+M0263,2,2,1.0,True,Active,37
+M0264,1,1,1.0,True,Churn risk (180d+ silent),667
+M0265,2,2,1.0,True,Churn risk (180d+ silent),268
+M0266,1,1,1.0,True,Churn risk (180d+ silent),354
+M0267,2,3,1.5,True,Churn risk (180d+ silent),413
+M0269,3,3,1.0,True,Active,0
+M0270,2,2,1.0,True,Churn risk (180d+ silent),442
+M0271,2,2,1.0,True,Cooling off,135
+M0272,4,4,1.0,True,Champion,11
+M0273,2,2,1.0,True,Cooling off,166
+M0274,2,2,1.0,True,Churn risk (180d+ silent),204
+M0275,3,3,1.0,True,Cooling off,121
+M0276,3,3,1.0,True,Churn risk (180d+ silent),240
+M0278,4,4,1.0,True,Active,90
+M0279,1,1,1.0,True,Active,2
+M0280,5,5,1.0,True,Champion,25
+M0281,2,2,1.0,True,Active,59
+M0282,1,1,1.0,True,Churn risk (180d+ silent),519
+M0283,2,2,1.0,True,Churn risk (180d+ silent),475
+M0284,1,1,1.0,True,Churn risk (180d+ silent),352
+M0285,5,5,1.0,True,Churn risk (180d+ silent),197
+M0286,2,2,1.0,True,Cooling off,117
+M0287,5,5,1.0,True,Champion,21
+M0288,2,2,1.0,True,Churn risk (180d+ silent),507
+M0289,1,1,1.0,True,Churn risk (180d+ silent),275
+M0290,1,1,1.0,True,Churn risk (180d+ silent),460
+M0291,5,5,1.0,True,Cooling off,113
+M0292,2,2,1.0,True,Churn risk (180d+ silent),220
+M0293,2,2,1.0,True,Active,1
+M0295,1,1,1.0,True,Cooling off,109
+M0296,2,2,1.0,True,Churn risk (180d+ silent),503
+M0297,1,1,1.0,True,Cooling off,117
+M0298,3,4,1.3333333333333333,True,Cooling off,155
+M0299,1,1,1.0,True,Churn risk (180d+ silent),576
+M0300,3,3,1.0,True,Active,79
+M0301,2,2,1.0,True,Churn risk (180d+ silent),240
+M0302,1,1,1.0,True,Churn risk (180d+ silent),198
+M0303,2,2,1.0,True,Active,77
+M0305,2,2,1.0,True,Churn risk (180d+ silent),187
+M0306,2,2,1.0,True,Churn risk (180d+ silent),206
+M0307,2,2,1.0,True,Cooling off,123
+M0308,1,1,1.0,True,Churn risk (180d+ silent),214
+M0309,4,4,1.0,True,Churn risk (180d+ silent),414
+M0312,2,2,1.0,True,Active,76
+M0313,2,2,1.0,True,Churn risk (180d+ silent),205
+M0314,1,1,1.0,True,Churn risk (180d+ silent),195
+M0315,3,3,1.0,True,Cooling off,118
+M0316,1,1,1.0,True,Churn risk (180d+ silent),183
+M0317,1,1,1.0,True,Churn risk (180d+ silent),253
+M0318,4,4,1.0,True,Cooling off,133
+M0319,5,5,1.0,True,Cooling off,103
+M0320,2,2,1.0,True,Churn risk (180d+ silent),232
+M0322,4,5,1.25,True,Churn risk (180d+ silent),181
+M0324,3,3,1.0,True,Cooling off,167
+M0325,3,3,1.0,True,Churn risk (180d+ silent),370
+M0326,2,3,1.5,True,Churn risk (180d+ silent),238
+M0327,1,1,1.0,True,Churn risk (180d+ silent),583
+M0328,4,5,1.25,True,Champion,24
+M0329,2,2,1.0,True,Active,14
+M0331,2,3,1.5,True,Churn risk (180d+ silent),271
+M0332,1,1,1.0,True,Churn risk (180d+ silent),489
+M0333,1,1,1.0,True,Churn risk (180d+ silent),333
+M0334,2,2,1.0,True,Cooling off,102
+M0336,3,3,1.0,True,Active,3
+M0337,1,1,1.0,True,Cooling off,132
+M0338,3,3,1.0,True,Churn risk (180d+ silent),222
+M0339,1,1,1.0,True,Churn risk (180d+ silent),198
+M0340,2,2,1.0,True,Churn risk (180d+ silent),261
+M0341,2,2,1.0,True,Cooling off,171
+M0342,3,3,1.0,True,Churn risk (180d+ silent),326
+M0344,1,1,1.0,True,Churn risk (180d+ silent),235
+M0345,1,1,1.0,True,Active,3
+M0346,2,2,1.0,True,Active,6
+M0347,2,2,1.0,True,Churn risk (180d+ silent),405
+M0349,1,1,1.0,True,Churn risk (180d+ silent),555
+M0350,4,4,1.0,True,Churn risk (180d+ silent),213
+M0351,1,1,1.0,True,Active,19
+M0352,3,4,1.3333333333333333,True,Churn risk (180d+ silent),338
+M0353,2,3,1.5,True,Cooling off,106
+M0354,1,1,1.0,True,Churn risk (180d+ silent),185
+M0355,2,2,1.0,True,Cooling off,180
+M0356,2,2,1.0,True,Churn risk (180d+ silent),238
+M0357,1,1,1.0,True,Churn risk (180d+ silent),650
+M0358,6,6,1.0,True,Champion,26
+M0359,1,1,1.0,True,Churn risk (180d+ silent),481
+M0360,1,1,1.0,True,Churn risk (180d+ silent),314
+M0361,3,3,1.0,True,Active,31
+M0362,3,3,1.0,True,Churn risk (180d+ silent),323
+M0363,3,4,1.3333333333333333,True,Cooling off,139
+M0364,2,2,1.0,True,Churn risk (180d+ silent),433
+M0366,3,3,1.0,True,Churn risk (180d+ silent),348
+M0367,1,1,1.0,True,Churn risk (180d+ silent),339
+M0368,1,1,1.0,True,Churn risk (180d+ silent),552
+M0369,2,2,1.0,True,Active,68
+M0370,1,1,1.0,True,Churn risk (180d+ silent),459
+M0371,2,3,1.5,True,Active,11
+M0372,3,3,1.0,True,Active,86
+M0373,3,3,1.0,True,Churn risk (180d+ silent),214
+M0375,2,2,1.0,True,Churn risk (180d+ silent),363
+M0376,2,2,1.0,True,Cooling off,145
+M0377,1,1,1.0,True,Churn risk (180d+ silent),273
+M0378,3,3,1.0,True,Active,79
+M0379,3,3,1.0,True,Active,26
+M0380,1,1,1.0,True,Churn risk (180d+ silent),203
+M0381,3,3,1.0,True,Churn risk (180d+ silent),257
+M0382,1,1,1.0,True,Churn risk (180d+ silent),222
+M0383,2,2,1.0,True,Churn risk (180d+ silent),371
+M0384,2,2,1.0,True,Active,80
+M0385,3,3,1.0,True,Churn risk (180d+ silent),238
+M0386,1,1,1.0,True,Churn risk (180d+ silent),615
+M0387,2,3,1.5,True,Active,62
+M0390,4,4,1.0,True,Champion,5
+M0391,1,1,1.0,True,Churn risk (180d+ silent),303
+M0392,2,2,1.0,True,Churn risk (180d+ silent),249
+M0394,2,2,1.0,True,Churn risk (180d+ silent),213
+M0395,2,2,1.0,True,Active,58
+M0396,4,5,1.25,True,Cooling off,115
+M0397,2,2,1.0,True,Active,33
+M0398,5,7,1.4,True,Active,72
+M0399,3,3,1.0,True,Active,11
